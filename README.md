@@ -7,7 +7,6 @@
 <h3 align="center">A passionate frontend, backend developer and QA Automation Tester from Srilanka</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-<h3 align="left">Languages and Tools:</h3>
 
 - 🔭 I’m currently working on **𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐂𝐥𝐨𝐧𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐛𝐲 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋 𝐚𝐧𝐝 𝐂𝐒𝐒**
 
