@@ -4,7 +4,19 @@
 ![Profile Image](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
 
 <h1 align="center">Hi 👋, I'm Mohamed Ashkan</h1>
-<h3 align="center">A passionate frontend, backend developer and QA Automation Tester from Srilanka</h3>
+<h3 align="center">A passionate frontend, backend developer and QA Automation Tester from Srilanka</h3>-
+
+
+💬 Ask me about **"Hi, I'm Mohamed Ashkan, a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems.In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times. I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React. I'm a highly motivated and results-oriented engineer. I'm also a team player and always willing to learn new things. I'm confident that I can significantly contribute to your team and help you achieve your goals.**
+
+- 📫 How to reach me **ashkan.mohammed98@gmail.com**
+
+- 📄 Know about my experiences [https://bzcode.netlify.app/]
+
+- ⚡ Fun fact **I think, I am a funny corrector and sleepy is my like one**
+
+
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 
@@ -18,13 +30,6 @@
 
 - 👨‍💻 All of my projects are available at [https://bzcode.netlify.app/]
 
-- 💬 Ask me about **"Hi, I'm Mohamed Ashkan, a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems.In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times. I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React.I'm a highly motivated and results-oriented engineer. I'm also a team player and always willing to learn new things. I'm confident that I can significantly contribute to your team and help you achieve your goals.**
-
-- 📫 How to reach me **ashkan.mohammed98@gmail.com**
-
-- 📄 Know about my experiences [https://bzcode.netlify.app/]
-
-- ⚡ Fun fact **I think, I am a funny corrector and sleepy is my like one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
