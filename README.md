@@ -19,11 +19,11 @@
 
 - 👨‍💻 All of my projects are available at [https://bzcode.netlify.app/]
 
-- 💬 Ask me about **"Hi, I'm Mohamed Ashkan, a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems.In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times. I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React.I'm a highly motivated and results-oriented engineer. I'm also a team player and I'm always willing to learn new things. I'm confident that I can make a significant contribution to your team and help you achieve your goals.**
+- 💬 Ask me about **"Hi, I'm Mohamed Ashkan, a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems.In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times. I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React.I'm a highly motivated and results-oriented engineer. I'm also a team player and always willing to learn new things. I'm confident that I can significantly contribute to your team and help you achieve your goals.**
 
 - 📫 How to reach me **ashkan.mohammed98@gmail.com**
 
-- 📄 Know about my experiences [https://mohammedashkan.github.io/CV/](https://mohammedashkan.github.io/CV/)
+- 📄 Know about my experiences [https://bzcode.netlify.app/]
 
 - ⚡ Fun fact **I think, I am a funny corrector and sleepy is my like one**
 
