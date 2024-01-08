@@ -7,25 +7,6 @@
 <h3 align="center">A passionate frontend, backend developer and QA Automation Tester from Srilanka</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-
-
-- 💬 Ask me about **"Hi, I'm Mohamed Ashkan, a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems. In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times. I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React. I'm a highly motivated and results-oriented engineer. I'm also a team player and always willing to learn new things. I'm confident that I can significantly contribute to your team and help you achieve your goals.**
-
-- 📫 How to reach me **ashkan.mohammed98@gmail.com**
-
-- 📄 Know about my experiences [https://bzcode.netlify.app/]
-
-- ⚡ Fun fact **I think, I am a funny corrector and sleepy is my like one**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mohammedashkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mohammedashkan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mhmd-ashkan-a1a59019a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mhmd-ashkan-a1a59019a/" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/mohammedashkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/mohammedashkan" height="30" width="40" /></a>
-<a href="https://web.facebook.com/amohammed.ashkan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/amohammed.ashkan/" height="30" width="40" /></a>
-<a href="https://discord.gg/mohammed_ashkan#7238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammed_ashkan#7238" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 - 🔭 I’m currently working on **𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐂𝐥𝐨𝐧𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐛𝐲 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋 𝐚𝐧𝐝 𝐂𝐒𝐒**
