@@ -7,21 +7,13 @@
 <h3 align="center">A passionate frontend, backend developer and QA Automation Tester from Srilanka</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-- 🔭 I’m currently working on **𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐂𝐥𝐨𝐧𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐛𝐲 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋 𝐚𝐧𝐝 𝐂𝐒𝐒**
 
-- 🌱 I’m currently learning **Frameworks is React,Angular,Vue.js,Spring Boot and Object-Oriented Programming course.**
 
-- 👯 I’m looking to collaborate on **E-Commerce Plateform**
-
-- 🤝 I’m looking for help with **E-Learning Platform**
-
-- 👨‍💻 All of my projects are available at [https://mohammedashkan.github.io/CV/](https://mohammedashkan.github.io/CV/)
-
-- 💬 Ask me about **"Hi, I'm Mohamed Ashkan, and I'm a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems.In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times.I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React.I'm a highly motivated and results-oriented engineer. I'm also a team player and I'm always willing to learn new things. I'm confident that I can make a significant contribution to your team and help you achieve your goals.**
+- 💬 Ask me about **"Hi, I'm Mohamed Ashkan, a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems. In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times. I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React. I'm a highly motivated and results-oriented engineer. I'm also a team player and always willing to learn new things. I'm confident that I can significantly contribute to your team and help you achieve your goals.**
 
 - 📫 How to reach me **ashkan.mohammed98@gmail.com**
 
-- 📄 Know about my experiences [https://mohammedashkan.github.io/CV/](https://mohammedashkan.github.io/CV/)
+- 📄 Know about my experiences [https://bzcode.netlify.app/]
 
 - ⚡ Fun fact **I think, I am a funny corrector and sleepy is my like one**
 
@@ -38,15 +30,15 @@
 
 - 🔭 I’m currently working on **𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐂𝐥𝐨𝐧𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐛𝐲 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋 𝐚𝐧𝐝 𝐂𝐒𝐒**
 
-- 🌱 I’m currently learning **Frameworks is React,Angular,Vue.js,Spring Boot and Object-Oriented Programming course.**
+- 🌱 I’m currently learning **Frameworks is React, Angular, Vue.js, Spring Boot and Object-Oriented Programming course.**
 
-- 👯 I’m looking to collaborate on **E-Commerce Plateform**
+- 👯 I’m looking to collaborate on **E-Commerce Platform**
 
 - 🤝 I’m looking for help with **E-Learning Platform**
 
-- 👨‍💻 All of my projects are available at [https://mohammedashkan.github.io/CV/](https://mohammedashkan.github.io/CV/)
+- 👨‍💻 All of my projects are available at [https://bzcode.netlify.app/]
 
-- 💬 Ask me about **"Hi, I'm Mohamed Ashkan, and I'm a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems.In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times.I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React.I'm a highly motivated and results-oriented engineer. I'm also a team player and I'm always willing to learn new things. I'm confident that I can make a significant contribution to your team and help you achieve your goals.**
+- 💬 Ask me about **"Hi, I'm Mohamed Ashkan, a software engineer with 3 years of experience. I'm passionate about building innovative and user-friendly software that solves real-world problems.In my previous role at Google, I developed a new algorithm for ranking search results that improved the accuracy of results by 10%. I also led a team of engineers in the development of a new mobile app that was downloaded over 1 million times. I'm proficient in a variety of programming languages, including Java, Python, and JavaScript. I'm also familiar with a variety of software development frameworks, such as Angular and React.I'm a highly motivated and results-oriented engineer. I'm also a team player and I'm always willing to learn new things. I'm confident that I can make a significant contribution to your team and help you achieve your goals.**
 
 - 📫 How to reach me **ashkan.mohammed98@gmail.com**
 
